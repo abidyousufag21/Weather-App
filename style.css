@@ -28,12 +28,12 @@ body {
   padding: 30px;
 }
 .date-container h2 {
-  color: #222121;
+  color: #ffffff;
   font-size: 2rem;
 }
 .date,
 .time {
-  color: #b31111;
+  color: #11a3b3;
   text-align: center;
   font-size: 1.2rem;
 }
