@@ -14,7 +14,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("./image/badal.webp");
+  background-image: url("./image/background.jpg");
   background-size: cover;
 
 }
